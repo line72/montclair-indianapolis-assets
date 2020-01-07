@@ -21,8 +21,8 @@ CONFIG = transmogrifier.Config(
         version = '2.0.2',
         revision = 1,
         app_id = 'com.gotransitapp.indianapolis',
-        app_store_id = 'REPLACE_ME',
-        app_store_url = 'https://apps.apple.com/us/app/go-indianapolis/idREPLACE_ME'
+        app_store_id = '1493867700',
+        app_store_url = 'https://apps.apple.com/us/app/go-indianapolis/id1493867700'
     ),
     android_config = transmogrifier.MontclairAndroidConfig(
         version = '1.0.2',
